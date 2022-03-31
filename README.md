@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jovit Mathew</h1>
 <h3 align="center">A passionate frontend and Backend developer from Kerala,India</h3>
 
-<!-- ![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg)
-![](https://img.shields.io/ore/stars/totaleconomy) 
+![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg)
+<!-- ![](https://img.shields.io/ore/stars/totaleconomy) 
 ![](https://img.shields.io/github/forks/jovit-mathew236/todo_app-reactjs) 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg) 
 ![](https://img.shields.io/github/release/pandao/editor.md.svg) 
