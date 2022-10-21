@@ -1,9 +1,4 @@
-<style>
-.flex{
-    display:flex;
-    justify-content:space-evenly
-}
-</style>
+
 
 <h1 align="center">Hi 👋, I'm Jovit Mathew</h1>
 <h3 align="center">A passionate frontend and Backend developer from Kerala,India</h3>
@@ -31,7 +26,12 @@
 - ⚡ Fun fact **I'm so cool😂**
 
 <br>
-
+<style>
+.flex{
+    display:flex;
+    justify-content:space-evenly
+}
+</style>
 <div align="center" class="flex">
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14724184)](https://stackoverflow.com/users/14724184/jovit-mathew)
