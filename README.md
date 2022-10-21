@@ -26,18 +26,12 @@
 - ⚡ Fun fact **I'm so cool😂**
 
 <br>
-<style>
-.flex{
-    display:flex;
-    justify-content:space-evenly
-}
-</style>
-<div align="center" class="flex">
 
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14724184)](https://stackoverflow.com/users/14724184/jovit-mathew)
+<div align="center">
 
 <a href="https://app.daily.dev/Jovit_Mathew"><img src="https://api.daily.dev/devcards/09960e4811484f9cb5de35871627cf80.png?r=3vt" width="210" height="310" alt="Jovit Mathew's Dev Card"/></a>
 
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14724184)](https://stackoverflow.com/users/14724184/jovit-mathew)
 
 
 </div>
