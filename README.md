@@ -77,7 +77,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">Languages and Tools:</h3>
-<img align="center" width="350px"> 
+<p align="center" width="350px"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -97,7 +97,7 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-</img>
+</p>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -106,13 +106,27 @@
 
 </br>
 
-<div align="center" width="495px">
-<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&show_icons=true&locale=en&layout=compact" alt="jovit-mathew236" /></p>
+ <div align="center" width="495px">
+<!--<p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&show_icons=true&locale=en&layout=compact" alt="jovit-mathew236" /></p>
 
 <p><img align="center" width="495px" src="https://github-readme-stats.vercel.app/api?username=jovit-mathew236&show_icons=true&locale=en" alt="jovit-mathew236" /></p>
 
-<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&" alt="jovit-mathew236" /></p>
+<p><img align="center" width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&" alt="jovit-mathew236" /></p> -->
 
+
+ <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&theme=algolia" alt="jovit-mathew236" /></p>
+ <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=jovit-mathew236&show_icons=true&count_private=true&theme=algolia" />
+ <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jovit-mathew236"/></p>
+ 
+ <p align="center">
+  <img width="495px" src="https://github-readme-activity-graph.cyclic.app/graph?username=jovit-mathew236&theme=react-dark" alt="jovit-mathew236"/> </p>
+ 
+ <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jovit-mathew236&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+
+ 
+ 
+ 
+ 
 <br>
 <div><a href="https://www.buymeacoffee.com/jovitmatheA"> <img align="center" src="https://raw.githubusercontent.com/Jovit-Mathew236/Jovit-Mathew236/main/default-yellow.webp" height="50" width="210" alt="jovitmatheA" /></a></div>
 
