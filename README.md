@@ -31,20 +31,6 @@
 
 <br>
 <!-- <style></style> -->
-<div align="center">
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-<a href="https://app.daily.dev/Jovit_Mathew"><img src="https://api.daily.dev/devcards/09960e4811484f9cb5de35871627cf80.png?r=3vt" width="210" height="310" alt="Jovit Mathew's Dev Card"/></a>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-[![Jovit Mathew StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14724184&layout=compact)](https://stackoverflow.com/users/14724184/jovit-mathew)
-
-
-</div>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
@@ -70,11 +56,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">HACKTOBERFEST BADGES</h3>
-
-[![@jovit_mathew's Holopin board](https://holopin.me/jovit_mathew)](https://holopin.io/@jovit_mathew)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center" width="350px"> 
@@ -99,6 +80,14 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+<h3 align="center">HACKTOBERFEST BADGES</h3>
+
+[![@jovit_mathew's Holopin board](https://holopin.me/jovit_mathew)](https://holopin.io/@jovit_mathew)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -128,6 +117,22 @@
  
  
 <br>
+ 
+ <div align="center">
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<a href="https://app.daily.dev/Jovit_Mathew"><img src="https://api.daily.dev/devcards/09960e4811484f9cb5de35871627cf80.png?r=3vt" width="210" height="310" alt="Jovit Mathew's Dev Card"/></a>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+[![Jovit Mathew StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14724184&layout=compact)](https://stackoverflow.com/users/14724184/jovit-mathew)
+
+
+</div>
+ 
 <div><a href="https://www.buymeacoffee.com/jovitmatheA"> <img align="center" src="https://raw.githubusercontent.com/Jovit-Mathew236/Jovit-Mathew236/main/default-yellow.webp" height="50" width="210" alt="jovitmatheA" /></a></div>
 
 
