@@ -108,7 +108,7 @@
  <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jovit-mathew236"/></p>
  
  <p align="center">
-  <img width="495px" src="https://github-readme-activity-graph.cyclic.app/graph?username=jovit-mathew236&theme=react-dark" alt="jovit-mathew236"/> </p>
+  <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=jovit-mathew236&theme=react-dark" alt="jovit-mathew236"/> </p>
  
  <!--[![jovits's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jovit-mathew236&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
