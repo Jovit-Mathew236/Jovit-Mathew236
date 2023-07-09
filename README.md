@@ -105,7 +105,7 @@
 
  <p align="center"><img width="495px" src="https://github-readme-streak-stats.herokuapp.com/?user=jovit-mathew236&theme=algolia" alt="jovit-mathew236" /></p>
  <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api?username=jovit-mathew236&show_icons=true&count_private=true&theme=algolia" />
- <p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jovit-mathew236"/></p>
+ <!--<p align="center"><img width="495px" src="https://github-readme-stats.vercel.app/api/top-langs?username=jovit-mathew236&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="jovit-mathew236"/></p>-->
  
  <p align="center">
   <img width="495px" src="https://github-readme-activity-graph.vercel.app/graph?username=jovit-mathew236&theme=react-dark" alt="jovit-mathew236"/> </p>
