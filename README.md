@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Fullstack Web developer from Kerala,India</h3>
 
 
- <a href="https://github.com/Jovit-Mathew236/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a>
+ <p align="center"><a href="https://github.com/Jovit-Mathew236/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a></p>
 
 ![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg)
 
@@ -19,15 +19,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jovit-mathew236" alt="jovit-mathew236" /></a> </p>
 
-<!-- - 🌱 I’m currently learning **Flutter**
-
-- 👨‍💻 All of my projects are available at [https://jovit-mathew236.github.io/My-Personal-Web/](https://jovit-mathew236.github.io/My-Personal-Web/)
-
-- 💬 Ask me about **React Js and html,css,js**
-
-- 📫 How to reach me **jovitmathew236@gmail.com**
-
-- ⚡ Fun fact **I'm so cool😂** -->
 
 <br>
 <!-- <style></style> -->
@@ -37,7 +28,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
