@@ -6,7 +6,7 @@
 
  <p align="center"><a href="https://github.com/Jovit-Mathew236/"><img src="https://readme-typing-svg.herokuapp.com?lines=Web+developer;and;Freelancer;also+a+tech+enthusiast&center=true&width=500&height=30"></a></p>
 
-![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/Frontend%20%26%20Backend%20Developer%20(2).jpg)
+![](https://github.com/Jovit-Mathew236/Jovit-Mathew236/blob/main/LinkedIn%20cover%20-%206.png)
 
 <!-- ![](https://img.shields.io/ore/stars/totaleconomy) 
 ![](https://img.shields.io/github/forks/jovit-mathew236/todo_app-reactjs) 
