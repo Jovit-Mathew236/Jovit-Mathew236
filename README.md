@@ -114,7 +114,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<a href="https://app.daily.dev/Jovit_Mathew"><img src="https://api.daily.dev/devcards/09960e4811484f9cb5de35871627cf80.png?r=3vt" width="210" height="310" alt="Jovit Mathew's Dev Card"/></a>
+
+<a href="https://app.daily.dev/jovit_mathew"><img src="https://api.daily.dev/devcards/v2/Fj0xdHH5pd2RzlbsiqiUC.png?r=uul" width="356" alt="Jovit Mathew's Dev Card"/></a>
 
 
 [![Jovit Mathew StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14724184&layout=compact)](https://stackoverflow.com/users/14724184/jovit-mathew)
