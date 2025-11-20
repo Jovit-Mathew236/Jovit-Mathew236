@@ -59,7 +59,7 @@
 <h3 align="center">Languages & Tools</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,express,nestjs,mongodb,python,java,c,html,css,bootstrap,sass,flutter,dart,firebase,git,github,linux,arduino,blender,figma,postman,vscode&theme=dark&perline=10" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,rust,express,gcp,aws,nestjs,linux,bash,mongodb,vite,python,appwrite,java,c,bun,npm,qt,html,css,bootstrap,sass,flutter,dart,firebase,supabase,git,github,githubactions,arduino,figma,postman,vscode&theme=dark&perline=10" alt="Tech Stack" />
   </a>
 </div>
 
