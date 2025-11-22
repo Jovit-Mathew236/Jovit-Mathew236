@@ -1,8 +1,8 @@
-<!-- <div align="center">
+ <div align="center">
   <img src="https://github.com/Jovit-Mathew236/Jovit-Mathew236/raw/main/banner.png" width="100%" alt="Jovit Mathew Banner" />
 </div>
 
-<br /> -->
+<br />
 
 <div align="center">
   <h1 align="center">Hi, I'm Jovit Mathew! 👋</h1>
